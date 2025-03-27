@@ -76,8 +76,8 @@ UserUID = [User's Unique ID]
   "response": {
     "ResultCount": 1,
     "UserUID": "1698182336701x843563954527648500",
-    "Email": "santiago@konfront.mx",
-    "Name": "Santiago Zabalgoitia Villalobos",
+    "Email": "test@konfront.mx",
+    "Name": "Prueba Test Testing",
     "LastDateOpened": 1743098545087,
     "AnsweredBoolean": false
   }
@@ -91,8 +91,8 @@ UserUID = [User's Unique ID]
   "response": {
     "ResultCount": 1,
     "UserUID": "1698182336701x843563954527648500",
-    "Email": "santiago@konfront.mx",
-    "Name": "Santiago Zabalgoitia Villalobos",
+    "Email": "test@konfront.mx",
+    "Name": "test Prueba Testing",
     "LastDateOpened": 1743098545087,
     "AnsweredBoolean": true,
     "LastDateAnswered": 1743098640000
